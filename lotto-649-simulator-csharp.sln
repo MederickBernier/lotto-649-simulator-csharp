@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lotto-649-simulator-csharp", "lotto-649-simulator-csharp.csproj", "{EE78AB97-6ECB-4C4E-8DFE-219D8CF04631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE78AB97-6ECB-4C4E-8DFE-219D8CF04631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE78AB97-6ECB-4C4E-8DFE-219D8CF04631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE78AB97-6ECB-4C4E-8DFE-219D8CF04631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE78AB97-6ECB-4C4E-8DFE-219D8CF04631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D0C4646-AC1D-47F5-8492-E91031803226}
+	EndGlobalSection
+EndGlobal
